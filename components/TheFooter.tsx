@@ -3,7 +3,7 @@ import React from 'react';
 const TheFooter = () => {
   return (
     <footer className='container'>
-      Created by &copy;Misha Nep
+      Created by &copy;Bekmyrza Dzhumakadyrov
     </footer>
   );
 };
